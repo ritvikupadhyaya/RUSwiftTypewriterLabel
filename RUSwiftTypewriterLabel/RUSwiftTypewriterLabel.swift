@@ -19,7 +19,7 @@ public func startTyping(mutableString: NSMutableAttributedString, typeSpeed: NST
                 
                 let stringToAdd = mutableString.attributedSubstringFromRange(NSRange(location: i, length: 1))
                 
-                var mutableLabelText = NSMutableAttributedString(attributedString: label.attributedText!)
+                let mutableLabelText = NSMutableAttributedString(attributedString: label.attributedText!)
                 
                 mutableLabelText.appendAttributedString(stringToAdd)
                 

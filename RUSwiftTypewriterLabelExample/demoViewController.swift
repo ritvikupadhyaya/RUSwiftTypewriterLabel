@@ -23,11 +23,14 @@ class demoViewController: UIViewController {
         
         let mutedString = generateMutableAttributedString(demoLabelString);
         
-        startTyping(mutedString, typeSpeed: 0.1,label: demoLabel)
+
+            startTyping(mutedString, typeSpeed: 0.1,label: demoLabel)
+        
+        
     }
     
     func generateMutableAttributedString(inputString: String) -> NSMutableAttributedString {
-        var mutedString = NSMutableAttributedString(string: inputString)
+        let mutedString = NSMutableAttributedString(string: inputString)
         
         mutedString.addAttribute(NSForegroundColorAttributeName, value: UIColor(red: 150/170, green: 200/200, blue: 115/200, alpha: 180/200), range: NSRange(location: 0, length: 1))
         
