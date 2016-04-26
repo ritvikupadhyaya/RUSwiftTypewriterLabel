@@ -22,7 +22,7 @@ pod "RUSwiftTypewriterLabel"
 
 ## Author
 
-Ritvik Upadhyaya, ritvikupadhyaya@gmail.com
+Ritvik Upadhyaya
 
 ## License
 
@@ -36,4 +36,4 @@ This is a cool little feature which implements setting a NSMutableAttributedStri
 startTyping(mutedString, typeSpeed: 0.1,label: demoLabel)
 ```
 It is modified from https://github.com/stefandeclerck/SDUILabelTextAnimation
->>>>>>> 8c84ee74cf75bb2c00eaeba612e9dca1c189c2b9
+
