@@ -3,9 +3,3 @@ use_frameworks!
 target 'RUSwiftTypewriterLabel_Example', :exclusive => true do
   pod 'RUSwiftTypewriterLabel', :path => '../'
 end
-
-target 'RUSwiftTypewriterLabel_Tests', :exclusive => true do
-  pod 'RUSwiftTypewriterLabel', :path => '../'
-
-  
-end
