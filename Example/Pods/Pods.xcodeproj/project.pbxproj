@@ -98,6 +98,19 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+		<key>0F7B525146D1AD114580217B4FD092BC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.swift</string>
+			<key>path</key>
+			<string>RUSwiftTypewriterLabel.swift</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>10C7FE9B0246EA4B1C74362A5DA6889E</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -284,28 +297,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2A41169113C2103DC478337ACFC87B16</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9333F2CB6C132C054699C1037D8CE099</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2BB8B81B53EAD47F8006205F31D3D529</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>443D1096BBFEF5A6ED23D469AD1B49A7</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>RUSwiftTypewriterLabel</string>
-			<key>path</key>
-			<string>RUSwiftTypewriterLabel</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>2C72670FC98A1D43C56D0797B6959757</key>
 		<dict>
 			<key>baseConfigurationReference</key>
@@ -415,19 +406,6 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>3286EA8024515E40787CA4530861A0F3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>RUSwiftTypewriterLabel.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>338B4ED9F6C9744775F343D3016C9938</key>
 		<dict>
 			<key>containerPortal</key>
@@ -496,6 +474,20 @@
 			<string>XCBuildConfiguration</string>
 			<key>name</key>
 			<string>Release</string>
+		</dict>
+		<key>39BA2BE6DE4741DAD5C1279781C20CC5</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>FE220CEBB77703884502A9D1E395A0A8</string>
+				<string>DD2C5ABBB6399D2180DA36CA97F87E6F</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>3A0B0999DC2BDFA5C4CF1FA82C38752A</key>
 		<dict>
@@ -583,22 +575,6 @@
 			<string>PBXResourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
-		</dict>
-		<key>443D1096BBFEF5A6ED23D469AD1B49A7</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>9333F2CB6C132C054699C1037D8CE099</string>
-				<string>3286EA8024515E40787CA4530861A0F3</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>453CB9503DE85BD7B717B39B004BD1A3</key>
 		<dict>
@@ -691,13 +667,6 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>4FEC26D2FD14E56EF1AED567EB5B834C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F7B1B52A963190BBF1A540BA6F2B56EE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>552D02D5BA751AC2E8790D2811D496CA</key>
 		<dict>
 			<key>buildSettings</key>
@@ -775,7 +744,7 @@
 		<dict>
 			<key>children</key>
 			<array>
-				<string>2BB8B81B53EAD47F8006205F31D3D529</string>
+				<string>E2BCEFC7553A7174C77D1F3FDBBEA883</string>
 				<string>F8C34F4551C7442F652DDCA159ABC3A2</string>
 			</array>
 			<key>isa</key>
@@ -810,6 +779,21 @@
 			<string>text.xcconfig</string>
 			<key>path</key>
 			<string>Pods-RUSwiftTypewriterLabel_Example.release.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5FA79C1AC3E7B0FE4C5F731BB6090985</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>0F7B525146D1AD114580217B4FD092BC</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Classes</string>
+			<key>path</key>
+			<string>Classes</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1023,7 +1007,7 @@
 			<string>F9EFD808A527D75DBB7EF5ED74F2465B</string>
 			<key>buildPhases</key>
 			<array>
-				<string>94B44518842F0D1A14DD8FD6C2767DE5</string>
+				<string>39BA2BE6DE4741DAD5C1279781C20CC5</string>
 				<string>C3D20914337C00F7090A460FCF2FBE24</string>
 				<string>439E0C6246675D78B3E2B58A139C073D</string>
 				<string>6F36A26EA9AABBCDEE7CFCDF971A1555</string>
@@ -1044,34 +1028,6 @@
 			<string>D01AB770DCF8312E453D27B0AF911D02</string>
 			<key>productType</key>
 			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>9333F2CB6C132C054699C1037D8CE099</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>ReplaceMe.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>94B44518842F0D1A14DD8FD6C2767DE5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>2A41169113C2103DC478337ACFC87B16</string>
-				<string>4FEC26D2FD14E56EF1AED567EB5B834C</string>
-				<string>AAE077C956D9891F5B6A799A24A98111</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
 		</dict>
 		<key>97C539925D4F04B84FB901821E3F51E1</key>
 		<dict>
@@ -1174,13 +1130,6 @@
 			<string>Pods-RUSwiftTypewriterLabel_Tests.release.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AAE077C956D9891F5B6A799A24A98111</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3286EA8024515E40787CA4530861A0F3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>AB4995601EC3B8D3B8E218FAB697C76D</key>
 		<dict>
@@ -1647,6 +1596,13 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>DD2C5ABBB6399D2180DA36CA97F87E6F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0F7B525146D1AD114580217B4FD092BC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>DE495F52DD718F4732DB4AA1F1DB86DD</key>
 		<dict>
 			<key>containerPortal</key>
@@ -1659,6 +1615,21 @@
 			<string>92959B0D27E2F5C52D218B582A276DFE</string>
 			<key>remoteInfo</key>
 			<string>RUSwiftTypewriterLabel</string>
+		</dict>
+		<key>E2BCEFC7553A7174C77D1F3FDBBEA883</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>5FA79C1AC3E7B0FE4C5F731BB6090985</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>RUSwiftTypewriterLabel</string>
+			<key>path</key>
+			<string>RUSwiftTypewriterLabel</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>E2F27FAA1771E6C7A1A88C782B36C386</key>
 		<dict>
@@ -1767,6 +1738,13 @@
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
+		</dict>
+		<key>FE220CEBB77703884502A9D1E395A0A8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F7B1B52A963190BBF1A540BA6F2B56EE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>

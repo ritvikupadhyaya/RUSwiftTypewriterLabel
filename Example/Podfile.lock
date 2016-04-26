@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RUSwiftTypewriterLabel: 9f4f0f5fc1c9c67a1883bd03bc7a3f60a5d5e895
+  RUSwiftTypewriterLabel: 63745208929ca92a4abe4dd1301343f0ddb13524
 
 COCOAPODS: 0.39.0
