@@ -4,5 +4,5 @@ xcode_project: Example/RUSwiftTypewriterLabel
 xcode_scheme: RUSwiftTypewriterLabel-Example
 podfile: Example/Podfile
 osx_image: xcode7
-xcode_sdk: iphonesimulator8.1
+xcode_sdk: iphonesimulator9.0
 #script: xcodebuild -workspace Example/RUSwiftTypewriterLabel.xcworkspace -scheme RUSwiftTypewriterLabel-Example -sdk iphonesimulator ONLY_ACTIVE_ARCH=NO
