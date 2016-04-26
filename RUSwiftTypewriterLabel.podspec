@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "RUSwiftTypewriterLabel"
   s.version          = "0.1.0"
-  s.summary          = "This is a cool little feature which implements setting a NSMutableAttributedString to be set in a label. The specified label is set one character at a time (think a typewriter) while maintaining all the attributes of the string"
+  s.summary          = "Cool typewriter animation implementing a NSMutableAttributedString to be set in a label."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
+This is a cool little feature which implements setting a NSMutableAttributedString to be set in a label. The specified label is set one character at a time (think a typewriter) while maintaining all the attributes of the string. So now you can have different font color, size, types and still have this cool animation.
                        DESC
 
   s.homepage         = "https://github.com/ritvikupadhyaya/RUSwiftTypewriterLabel"
