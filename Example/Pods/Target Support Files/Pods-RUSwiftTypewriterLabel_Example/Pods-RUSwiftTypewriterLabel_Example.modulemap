@@ -1,0 +1,6 @@
+framework module Pods_RUSwiftTypewriterLabel_Example {
+  umbrella header "Pods-RUSwiftTypewriterLabel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
