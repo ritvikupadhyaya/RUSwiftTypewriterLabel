@@ -13,4 +13,5 @@ language: swift
 #- pod lib lint
 #language: objective-c
 osx_image: xcode7.3
+script:
 - xcodebuild build -scheme IDZAQAudioPlayer -destination 'platform=iOS Simulator,name=iPhone 6,OS=8.3'
