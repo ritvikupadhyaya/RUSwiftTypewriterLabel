@@ -1,6 +1,6 @@
 # RUSwiftTypewriterLabel
 
-[![CI Status](http://img.shields.io/travis/Ritvik Upadhyaya/RUSwiftTypewriterLabel.svg?style=flat)](https://travis-ci.org/Ritvik Upadhyaya/RUSwiftTypewriterLabel)
+[![CI Status](http://img.shields.io/travis/ritvikupadhyaya/RUSwiftTypewriterLabel.svg?style=flat)](https://travis-ci.org/ritvikupadhyaya/RUSwiftTypewriterLabel)
 [![Version](https://img.shields.io/cocoapods/v/RUSwiftTypewriterLabel.svg?style=flat)](http://cocoapods.org/pods/RUSwiftTypewriterLabel)
 [![License](https://img.shields.io/cocoapods/l/RUSwiftTypewriterLabel.svg?style=flat)](http://cocoapods.org/pods/RUSwiftTypewriterLabel)
 [![Platform](https://img.shields.io/cocoapods/p/RUSwiftTypewriterLabel.svg?style=flat)](http://cocoapods.org/pods/RUSwiftTypewriterLabel)
