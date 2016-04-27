@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/RUSwiftTypewriterLabel.svg?style=flat)](http://cocoapods.org/pods/RUSwiftTypewriterLabel)
 [![Platform](https://img.shields.io/cocoapods/p/RUSwiftTypewriterLabel.svg?style=flat)](http://cocoapods.org/pods/RUSwiftTypewriterLabel)
 
-## Usage
+## Demo
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
@@ -20,6 +20,10 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod "RUSwiftTypewriterLabel"
+```
+------or------
+```ruby
+pod 'RUSwiftTypewriterLabel', '~> 0.1'
 ```
 
 ## Author
