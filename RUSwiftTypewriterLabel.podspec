@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "RUSwiftTypewriterLabel"
-  s.version          = "0.2.0"
+  s.version          = "0.2.1"
   s.summary          = "Cool typewriter animation implementing a NSMutableAttributedString to be set in a label."
 
 # This description is used to generate tags and improve search results.

@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '65CF4D3A897958739F4041AE'
+               BlueprintIdentifier = '10E6EAAA588D5A1D5FA10158'
                BlueprintName = 'RUSwiftTypewriterLabel'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'RUSwiftTypewriterLabel.framework'>

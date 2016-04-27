@@ -1,6 +1,6 @@
 {
   "name": "RUSwiftTypewriterLabel",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Cool typewriter animation implementing a NSMutableAttributedString to be set in a label.",
   "description": "This is a cool little feature which implements setting a NSMutableAttributedString to be set in a label. The specified label is set one character at a time (think a typewriter) while maintaining all the attributes of the string. So now you can have different font color, size, types and still have this cool animation.",
   "homepage": "https://github.com/ritvikupadhyaya/RUSwiftTypewriterLabel",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/ritvikupadhyaya/RUSwiftTypewriterLabel.git",
-    "tag": "0.2.0"
+    "tag": "0.2.1"
   },
   "platforms": {
     "ios": "8.0"

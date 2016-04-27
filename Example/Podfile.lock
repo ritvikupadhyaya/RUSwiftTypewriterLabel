@@ -1,5 +1,5 @@
 PODS:
-  - RUSwiftTypewriterLabel (0.2.0)
+  - RUSwiftTypewriterLabel (0.2.1)
 
 DEPENDENCIES:
   - RUSwiftTypewriterLabel (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RUSwiftTypewriterLabel: 84b979bb4695242e731d9f0afb2b66d35dcd2374
+  RUSwiftTypewriterLabel: 09e3d615a62f8102f2ebaac562474edcc0868074
 
 COCOAPODS: 0.39.0

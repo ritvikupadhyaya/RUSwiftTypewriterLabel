@@ -21,7 +21,7 @@ extension UILabel {
      - parameter mutableString: A rich string that needs to be set on the label
      */
     public func startTyping(mutableString: NSMutableAttributedString){
-        var typeSpeed: NSTimeInterval = 0.1
+        let typeSpeed: NSTimeInterval = 0.1
         self.text = ""
         
         dispatch_async(dispatch_get_global_queue(QOS_CLASS_USER_INTERACTIVE, 0)) {
