@@ -9,6 +9,8 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+Or download the project and go to the Example directory and open the `RUSwiftTypewriterLabel.xcworkspace` workspace file.
+
 ![Alt Text](https://cloud.githubusercontent.com/assets/5144703/14835995/aa766c7a-0bd2-11e6-897e-e0af77dc19d6.gif)
 
 ## Requirements
@@ -21,7 +23,7 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "RUSwiftTypewriterLabel"
 ```
-------or------
+or
 ```ruby
 pod 'RUSwiftTypewriterLabel', '~> 0.1'
 ```
