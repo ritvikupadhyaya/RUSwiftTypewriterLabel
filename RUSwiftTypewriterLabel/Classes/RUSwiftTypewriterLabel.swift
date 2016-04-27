@@ -6,8 +6,20 @@
 //  Copyright © 2016 Ritvik Upadhyaya. All rights reserved.
 //
 
+
+
 import UIKit
 
+/**
+ Method starts animating the label with the given NSMutableAttributedString with
+ the typewriter animation. This method goes over each character in the string
+ and adds the attributes to a shadow string and appends the character to the
+ label's attributedText property.
+ 
+ - parameter mutableString: A rich string that needs to be set on the label
+ - parameter typeSpeed:     Time after each character is displayed on the label
+ - parameter label:         The label to be set with the animation
+ */
 public func startTyping(mutableString: NSMutableAttributedString, typeSpeed: NSTimeInterval, label: UILabel) {
     
     label.text = ""
