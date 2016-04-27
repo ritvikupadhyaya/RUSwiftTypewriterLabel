@@ -46,6 +46,7 @@ It is modified from https://github.com/stefandeclerck/SDUILabelTextAnimation
 demoLabel.startTyping(mutedString, typeSpeed: 0.2)
 ```
 or
-default: ```swift
+default: 
+```swift
 demoLabel.startTyping(mutedString)
 ```
