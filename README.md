@@ -43,5 +43,9 @@ It is modified from https://github.com/stefandeclerck/SDUILabelTextAnimation
 
 ##Usage
 ```swift
-startTyping(mutedString, typeSpeed: 0.1,label: demoLabel)
+demoLabel.startTyping(mutedString, typeSpeed: 0.2)
+```
+or
+default: ```swift
+demoLabel.startTyping(mutedString)
 ```
