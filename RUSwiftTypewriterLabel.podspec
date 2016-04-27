@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "RUSwiftTypewriterLabel"
-  s.version          = "0.1.0"
+  s.version          = "0.2.0"
   s.summary          = "Cool typewriter animation implementing a NSMutableAttributedString to be set in a label."
 
 # This description is used to generate tags and improve search results.
@@ -35,7 +35,4 @@ This is a cool little feature which implements setting a NSMutableAttributedStri
     'RUSwiftTypewriterLabel' => ['RUSwiftTypewriterLabel/Assets/*.png']
   }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end

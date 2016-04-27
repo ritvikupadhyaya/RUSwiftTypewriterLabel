@@ -24,10 +24,8 @@ class demoViewController: UIViewController {
         
         let mutedString = generateMutableAttributedString(demoLabelString);
         
+        demoLabel.startTyping(mutedString, typeSpeed: 0.2)
 
-        startTyping(mutedString, typeSpeed: 0.1,label: demoLabel)
-        
-        
     }
     
     func generateMutableAttributedString(inputString: String) -> NSMutableAttributedString {
