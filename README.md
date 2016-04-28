@@ -25,7 +25,7 @@ pod "RUSwiftTypewriterLabel"
 ```
 or
 ```ruby
-pod 'RUSwiftTypewriterLabel', '~> 0.1'
+pod 'RUSwiftTypewriterLabel', '~> 0.2.1'
 ```
 
 ## Author
