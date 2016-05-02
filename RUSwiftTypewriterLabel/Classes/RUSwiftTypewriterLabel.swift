@@ -6,11 +6,15 @@
 //  Copyright © 2016 Ritvik Upadhyaya. All rights reserved.
 //
 
-
+//TODO: Implement the stopAnimation method
 
 import UIKit
 
 extension UILabel {
+    
+    public func stopAnimation(){
+    
+    }
     
     /**
      Method starts animating (with 0.1 interval) the label with the given 
